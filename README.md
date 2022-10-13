@@ -8,6 +8,6 @@
 - 🔭 I’m currently working on to <b> Grow My Skills More & more...</b>
 - 🌱 I’m currently learning  the <b>Technology for Cross Plateform </b> i.e React Native...
 - 👯 I’m looking to collaborate on open source projects... 
-[![DeepakGarg's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepakGarg882001&show_icons=true&theme=highcontrast&layout=compact)](https://github.com/DeepakGarg882001/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakGarg882001&langs_count=15&layout=compact&theme=highcontrast&show_icons=true)](https://github.com/DeepakGarg882001/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=highcontrast&show_icons=true)](https://github.com/DeepakGarg882001/github-readme-stats)
+[![DeepakGarg's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitendra-191906&show_icons=true&theme=highcontrast&layout=compact)](https://github.com/jitendra-191906/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitendra-191906&langs_count=15&layout=compact&theme=highcontrast&show_icons=true)](https://github.com/jitendra-191906/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=highcontrast&show_icons=true)](https://github.com/jitendra-191906/github-readme-stats)
